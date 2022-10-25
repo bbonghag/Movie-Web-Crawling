@@ -29,17 +29,30 @@
 - Pandas를 통해 데이터 가공
 - Matplotlib, Seaborn, Plotly를 통해 데이터를 시각화 및 인사이트 도출
 
+#### Visualization - 발표자료 참고.
+- 연도별 매출액 변화 추이
+- 영화 가격 변화
+- 연월별 관객수 분포도
+- 17~21년 5년간 월별 관객 분포도
+- 17~21년 전체 영화 년도/요일별 개봉편수와 매출액
+- 17~21년 국내/해외 영화 개봉 편수 비교
+- 연도별 상위 50개 영화의 국가별 영화수 비교 및 장르 분석
+- 영화 시장의 연도별 국내외 영화 점유율 추이
+
 <br/>
 
 
-### 🎬Result
-- 
+### 🎬Insight
+1. 개봉 시기는 목요일이나 금요일을 노리는 것이 좋다
+2. 상업적 성과를 위해선 액션과 드라마 위주의 장르로 영화를 만드는 것이 좋다
+3. OTT 시장 진출을 통해 수익의 극대화를 노려야 하며, 기존 극장 시장과는 다른 전략을 취해야 한다.
 
 
 <br/>
 
 
 ### 🎬Discussion
+- 
 
 <br/>
 
@@ -50,3 +63,19 @@
 <br/>
 
 ### 🎬References
+
+
+
+
+
+<!--
+연도별 매출액 변화 추이<br/> 
+<img src = 'https://user-images.githubusercontent.com/103362361/197702554-eceb496e-6b39-4f41-bad3-f95e44538807.png' width = 40%, height = 40%>
+
+영화 가격 변화<br/>
+<img src = 'https://user-images.githubusercontent.com/103362361/197703188-d96108c6-4251-40d2-9e2e-e2e4d7958c47.png' width = 300, height = 200>
+
+연월별 관객수 분포도
+<img src = '' width = 40%, height = 40%>
+
+-->
