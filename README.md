@@ -5,7 +5,7 @@
 -------------
 
 ### 🎬Team
-- 5명(조장:박한빈, 조원:박재현, 손보영, 전영욱, 이봉학)
+- 5명(조장 : 박한빈, 조원 : 박재현, 손보영, 전영욱, 이봉학)
 
 
 ### 🎬Introduction
@@ -63,19 +63,9 @@
 <br/>
 
 ### 🎬References
+- [python - 웹 크롤링 예제(Requests & BeautifulSoup)](https://youngwonhan-family.tistory.com/entry/python-%EC%9B%B9-%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88-With-Requests-BeautifulSoup)
 
 
 
 
 
-<!--
-연도별 매출액 변화 추이<br/> 
-<img src = 'https://user-images.githubusercontent.com/103362361/197702554-eceb496e-6b39-4f41-bad3-f95e44538807.png' width = 40%, height = 40%>
-
-영화 가격 변화<br/>
-<img src = 'https://user-images.githubusercontent.com/103362361/197703188-d96108c6-4251-40d2-9e2e-e2e4d7958c47.png' width = 300, height = 200>
-
-연월별 관객수 분포도
-<img src = '' width = 40%, height = 40%>
-
--->
