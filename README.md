@@ -50,9 +50,10 @@
 
 <br/>
 
-
+<!--
 ### 🎬Discussion
 - 
+-->
 
 <br/>
 
@@ -64,7 +65,8 @@
 
 ### 🎬References
 - [python - 웹 크롤링 예제(Requests & BeautifulSoup)](https://youngwonhan-family.tistory.com/entry/python-%EC%9B%B9-%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88-With-Requests-BeautifulSoup)
-
+- [Seaborn을 사용한 데이터 분포 시각화](https://datascienceschool.net/01%20python/05.04%20%EC%8B%9C%EB%B3%B8%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%ED%8F%AC%20%EC%8B%9C%EA%B0%81%ED%99%94.html)
+- [01. Matplotlib 기본 사용](https://wikidocs.net/92071)
 
 
 
